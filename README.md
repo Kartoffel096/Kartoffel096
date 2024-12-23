@@ -9,7 +9,7 @@
   
 - ⚡ Fun fact **I think i am stupid and have very little knowledge**
   
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 # 💻 Tech Stack:
 <h4 align="center"> Software
@@ -69,7 +69,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Kartoffel096) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/GoenndalfDerNice096) 
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
   
